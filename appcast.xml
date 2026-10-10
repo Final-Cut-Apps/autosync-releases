@@ -3,6 +3,15 @@
     <channel>
         <title>AutoSync</title>
         <item>
+            <title>AutoSync 0.1.2</title>
+            <pubDate>Sat, 10 Oct 2026 12:32:44 -0000</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Versão de teste da atualização automática (sem mudanças no uso)</li></ul>]]></description>
+            <enclosure url="https://github.com/Final-Cut-Apps/autosync-releases/releases/download/v0.1.2/AutoSync-0.1.2.zip" sparkle:edSignature="LbW/7tBHOnKBwxvHKwaf3C/9h/a2RdVB10pMaXAc+3OBsH7s2mM2ImzrB9gQ5Mxkb7rrsmBJMsO6od6Jt7ApAw==" length="4207584" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>AutoSync 0.1.1</title>
             <pubDate>Sat, 10 Oct 2026 12:31:17 -0000</pubDate>
             <sparkle:version>2</sparkle:version>
