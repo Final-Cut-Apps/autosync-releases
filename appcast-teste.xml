@@ -2,5 +2,15 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <title>AutoSync</title>
+        <item>
+            <title>AutoSync 0.2.3</title>
+            <pubDate>Tue, 13 Oct 2026 17:54:11 -0000</pubDate>
+            <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Versão de teste para beta testers (30 dias)</li><li>Visual novo, no estilo do Caption Lab, com a engrenagem dos Ajustes ao lado do nome</li><li>Relatórios automáticos de cada sincronização, erros e travamentos, enviados direto para a equipe (sem vídeo, áudio ou nomes de arquivos)</li><li>Enviar sugestão / Relatar problema, com print da janela</li></ul>]]></description>
+            <enclosure url="https://github.com/Final-Cut-Apps/autosync-releases/releases/download/v0.2.3-teste/AutoSync-Teste-0.2.3.zip" sparkle:edSignature="3Li67Rsc+uMIzduJjtRFJ93eUPXmTSYL+2w1hcPfWe5SfQLL92XHcb7bkTu/CGl8GCLU8s0oK2L1Wc4bMh1sAA==" length="5259706" type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
