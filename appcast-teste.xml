@@ -3,6 +3,16 @@
     <channel>
         <title>AutoSync</title>
         <item>
+            <title>MasterSync 0.2.5</title>
+            <pubDate>Mon, 19 Oct 2026 13:00:32 -0000</pubDate>
+            <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Versão de teste para beta testers (30 dias)</li><li>Nome novo: o AutoSync agora se chama MasterSync (o app se renomeia sozinho), com visual e ícone novos</li><li>Vídeos gravados ao mesmo tempo (tela + câmera, podcast com várias câmeras), com ou sem áudio separado: o app pergunta &quot;Multicam ou Em camadas?&quot; e monta, com os microfones e entrevistados como sempre</li><li>Videoclipe com playback: cada take é sincronizado pela música do set</li><li>Tratar o áudio da fala (opcional, no cartão Final Cut Pro): usa as ferramentas do próprio Final Cut — isolamento de voz, ruído, zumbido, equalização e nível — na medida certa para cada microfone; música nunca é tratada</li><li>Mais preciso: b-roll e músicas soltas não recebem mais um áudio errado; câmeras com relógios diferentes e gravador que divide o arquivo funcionam</li><li>Até 5 vezes mais rápido, com menos memória, e sem travamentos ao ler muitos áudios</li><li>Avisos novos: muitos vídeos 4K juntos (como gerar proxy) e quando o Final Cut não aceita o projeto arrastado</li><li>Ordem dos clipes no projeto: pela hora de gravação ou como estavam no Final Cut</li></ul>]]></description>
+            <enclosure url="https://github.com/Final-Cut-Apps/autosync-releases/releases/download/v0.2.5-teste/MasterSync-Teste-0.2.5.zip" sparkle:edSignature="vvyLgZJWdBxjya5GkQzkPUtttEWiuMAn+JU3HQa7neL03c6OevY7fcE6q5/RlOl2duhPaoMJAQBmKI2jaA+aBA==" length="6793786" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>AutoSync 0.2.3</title>
             <pubDate>Tue, 13 Oct 2026 17:54:11 -0000</pubDate>
             <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
