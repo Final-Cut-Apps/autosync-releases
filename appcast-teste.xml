@@ -4,7 +4,7 @@
         <title>AutoSync</title>
         <item>
             <title>MasterSync 0.2.5</title>
-            <pubDate>Mon, 19 Oct 2026 13:00:32 -0000</pubDate>
+            <pubDate>Sun, 18 Oct 2026 13:00:49 -0000</pubDate>
             <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
             <sparkle:version>10</sparkle:version>
             <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
