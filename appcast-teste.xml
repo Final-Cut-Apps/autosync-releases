@@ -3,6 +3,16 @@
     <channel>
         <title>AutoSync</title>
         <item>
+            <title>MasterSync 0.2.6</title>
+            <pubDate>Fri, 23 Oct 2026 08:28:31 -0000</pubDate>
+            <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.2.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Versão de teste para beta testers (30 dias)</li><li>Câmeras com frame rates diferentes na mesma sessão (por exemplo 25p e 30p): o Final Cut não mostra mais o aviso &quot;O item não está em um limite de quadro de edição&quot; ao importar</li></ul>]]></description>
+            <enclosure url="https://github.com/Final-Cut-Apps/autosync-releases/releases/download/v0.2.6-teste/MasterSync-Teste-0.2.6.zip" sparkle:edSignature="e1YBIO890UbhykukkY5lO8Wyxocw5LKmRTJWgY7496goi3XqkG73ygyBaNiM1SYnvr4IzlRoZRzGzYjE3k4IAA==" length="6793641" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>MasterSync 0.2.5</title>
             <pubDate>Sun, 18 Oct 2026 13:00:49 -0000</pubDate>
             <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
